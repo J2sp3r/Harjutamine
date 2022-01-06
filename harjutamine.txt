@@ -1,4 +1,4 @@
 Github on veebipõhine platvorm, mida kasutatakse versioonihalduseks.
 GitHubi kasutatakse grupitöödeks, kui on vaja ühe projekti kallal töötada ning seda üheaegselt uuendada.
 
-Mina saaks GitHubi kasutada näiteks kooli grupitööde tegemiseks, või siis enda tööde üleslaadimiseks.
+Mina saaks GitHubi kasutada näiteks kooli grupitööde koordineerimiseks, või siis enda tööde üleslaadimiseks.
