@@ -1,0 +1,2 @@
+Github on veebipõhine platvorm, mida kasutatakse versioonihalduseks.
+GitHubi kasutatakse grupitöödeks, kui on vaja ühe projekti kallal töötada ning seda üheaegselt uuendada.
