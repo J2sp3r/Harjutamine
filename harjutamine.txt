@@ -1,6 +1,0 @@
-Github on veebipõhine platvorm, mida kasutatakse versioonihalduseks.
-GitHubi kasutatakse grupitöödeks, kui on vaja ühe projekti kallal töötada ning seda üheaegselt uuendada.
-
-Mina saaks GitHubi kasutada näiteks kooli grupitööde koordineerimiseks, või siis enda tööde üleslaadimiseks.
-
-GitHub loodi Tom Preston-Werneri, Chris Wanstrath, P. J. Hyett ja Scott Chaconi poolt 2008. aastal. GitHubi teenus on kättesaadav olnud alates 10. aprillist 2008.
